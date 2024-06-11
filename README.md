@@ -1,4 +1,4 @@
-![I am Digital marketer.](https://pbs.twimg.com/profile_banners/1764126218155347968/1709435578/600x200)
+![I am Digital marketer.]
 ### Hi there 👋, I'm Arman Ahmed Taief
 #### I am Digital marketer.
 
