@@ -1,4 +1,3 @@
-![I am Digital marketer.]
 ### Hi there 👋, I'm Arman Ahmed Taief
 #### I am Digital marketer.
 
