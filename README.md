@@ -4,7 +4,7 @@
 
 Hay I am Digital marketer and Frontent Developer.I am First year Computer Science Engineer student.
 
-Skills: Digital marketer / c / JS / HTML / CSS
+Skills: Digital marketer / C / C++ / Python / HTML / CSS
 
 - 🌱 I’m currently learning CSE  
 - 👯 I’m looking to collaborate on GitHub  
