@@ -2,7 +2,7 @@
 
 🎓 Currently pursuing my B.Sc. in Computer Science & Engineering (CSE)  
 💡 Passionate about problem-solving and writing clean, efficient code  
-👨‍💻 Skilled in C, C++, HTML, and continuously learning new technologies  
+👨‍💻 Skilled in C, C++, Python, Java, HTML, CSS and continuously learning new technologies  
 📊 Also exploring Digital Marketing & Content Creation to merge creativity with tech  
 🌐 Portfolio: [View My Portfolio](http://127.0.0.1:5501/index.html)
 
