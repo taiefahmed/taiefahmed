@@ -4,6 +4,7 @@
 💡 Passionate about problem-solving and writing clean, efficient code  
 👨‍💻 Skilled in C, C++, HTML, and continuously learning new technologies  
 📊 Also exploring Digital Marketing & Content Creation to merge creativity with tech  
+🌐 Portfolio: [View My Portfolio](http://127.0.0.1:5501/index.html)
 
 <p align="left">
   <a href="https://www.facebook.com/taief01/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
