@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/arman_ahmed_taief/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/arman-ahmed-taief/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/ArmanAhmedTaief" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
-  <a href="mailto:armanahmedtaief@gmail.com"><img src="https://mail.google.com/mail/u/0/?fs=1&to=armanahmedtaief@gmail.com&tf=cm&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=armanahmedtaief@gmail.com&tf=cm" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email"/> </a>
 </p>
 
 ## 💻 Tech Stack
